@@ -1,6 +1,6 @@
 # nextpnr Issue 235 supplement
 
-This project demonstrates the problem with nextpnr processing files differently depending on whether they are unix format (LF line delimiters) or Windows/DOS format (CRLF line delimiters).
+This project demonstrates the problem with [nextpnr](https://github.com/YosysHQ/nextpnr) noted in [issue 235](https://github.com/YosysHQ/nextpnr/issues/235) regarding processing lpf contraint files differently depending on whether they are unix format (LF line delimiters) or Windows/DOS format (CRLF line delimiters).
 
 Original code is from https://github.com/DoctorWkt/ULX3S-Blinky, with a modified local constraint file: `ulx3s_v20.lpf`.
  
