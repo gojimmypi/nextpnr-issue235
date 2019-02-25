@@ -39,3 +39,4 @@ ERROR: unexpected end of LPF file
 
 see the complete files `working.log` and `error.log` for full output.
 
+specific error is at [line 1954](https://github.com/gojimmypi/nextpnr-issue235/blob/master/error.log#L1954): `ERROR: unexpected end of LPF file`.
